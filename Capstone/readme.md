@@ -173,7 +173,7 @@ pip install pathway bokeh pandas numpy matplotlib
 ### **Installation**
 
 ```bash
-git clone https://github.com/yourusername/dynamic-parking-pricing
+git clone https://github.com/MeetInCode/Summer-Analytics-2025-IIT-Guwahati/Capstone
 cd dynamic-parking-pricing
 pip install -r requirements.txt
 ```
