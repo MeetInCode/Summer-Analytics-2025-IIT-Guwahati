@@ -1,4 +1,4 @@
-Based on your completed Dynamic Parking Pricing System project, here's a comprehensive GitHub README.md file with architecture documentation:
+
 
 # Dynamic Parking Pricing System
 
@@ -248,27 +248,5 @@ python tests/benchmark_performance.py
 python tests/test_pipeline_integration.py
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Pathway Team** for the excellent real-time processing framework
-- **Urban Planning Research** for parking demand modeling insights
-- **Smart City Initiative** for real-world validation opportunities
-
-## 📞 Contact
-
-**Meet** - Computer Engineering Student  
-📧 [your-email@example.com]  
-🌍 Mumbai, Maharashtra, India  
-💼 [LinkedIn Profile] | 🐙 [GitHub Profile]
